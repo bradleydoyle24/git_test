@@ -1,0 +1,2 @@
+This is a test for modifying, staging, and committing files with GitHub.
+These lines of text are meaningless.
